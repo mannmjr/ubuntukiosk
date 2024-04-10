@@ -7,7 +7,7 @@ fi
 
 # Install
 
-apt install -y gcc git
+apt install -y gcc git make
 
 git clone https://github.com/rvaiya/keyd
 cd keyd

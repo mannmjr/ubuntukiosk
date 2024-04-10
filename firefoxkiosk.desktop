@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/firefox --kiosk https://lab.bitfoundry.co.uk/buses-v2 https://lab.bitfoundry.co.uk/europe
+Name=Firefox Kiosk
+Comment=Firefox
+Icon=/usr/share/app-install/icons/firefox.png
